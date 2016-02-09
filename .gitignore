@@ -1,0 +1,18 @@
+
+# Ignore temporary Emacs files
+*~
+
+#Ignore Eclipse directories
+.settings
+.project
+.classpath
+.pydevproject
+.metadata
+.idea
+
+# Exclude build directory
+target/*
+.
+/target
+
+*.pyc
